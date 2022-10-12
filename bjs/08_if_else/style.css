@@ -2,3 +2,39 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+.card.text-center {
+     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.card-header {
+    background: rgba(152, 251, 152, 0.4);
+}
+
+.card-footer {
+    background: rgba(152, 251, 152, 0.4);
+}
+
+#arr {
+    font-size: 2rem;
+    color: rgb(253, 255, 126);
+}
+
+.btn-info {
+    font-weight: bolder;
+    background-color: rgba(172, 191, 250, 0.999);
+}
+
+.btn-success {
+    font-weight: bolder;
+    background-color: rgba(69, 233, 186, 0.999);
+}
+
+#btnRetry {
+    color:rgb(4, 6, 176);
+}
+#btnRetry:hover {
+    color:rgb(1, 2, 27);
+}
+
+    

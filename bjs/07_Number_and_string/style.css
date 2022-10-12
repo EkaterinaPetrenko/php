@@ -3,6 +3,21 @@
     font-family: 'Share Tech Mono', monospace;
 }
 
+.card {
+    background-color: lavender;
+}
+
+.col {
+    background-color: rgb(245, 249, 248);
+}
+
+#btn_clr {
+    background-color: rgba(250, 222, 210, 0.969);
+}
+
+#btn_clr:hover {
+    background-color: rgba(253, 153, 111, 0.969);
+}
 .input-window {
     text-align: end;
     font-size: x-large;
